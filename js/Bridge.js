@@ -31,7 +31,7 @@ class Bridge {
     ]);
   }
 
-  break() {
+  break() {              
     //Matter.Composite.clear(this.rope,true);
     this.body = null;
   }
